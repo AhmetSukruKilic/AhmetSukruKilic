@@ -19,7 +19,7 @@ Interested in **game development**, **systems**, and **data structures**. I enjo
   - Helped students during labs and office hours; graded assignments and supported exam preparation.
 
 ## Selected Repos
-- 🔐 [ShazoThief](https://github.com/AhmetSukruKilic/ShazoThief) — Python utilities and experiments  
+- 🔐 [ShazoThief](https://github.com/AhmetSukruKilic/ShazoThief) — shazam + spotify app using database
 - 🎲 [Tetrapoly](https://github.com/AhmetSukruKilic/Tetrapoly) — board-game prototype (Unity/ShaderLab)  
 - 🏃 [HitAndRun](https://github.com/AhmetSukruKilic/HitAndRun) — runner game (Unity/C#)
 
