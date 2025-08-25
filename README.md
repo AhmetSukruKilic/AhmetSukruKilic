@@ -4,8 +4,8 @@
 Interested in **game development**, **systems**, and **data structures**. I enjoy building small but complete projects and polishing them until they feel right.
 
 ## What I'm working on
-- 🎲 **Tetrapoly** — a Monopoly-inspired board game prototype (Unity)
 - 🏃 **HitAndRun** — an endless runner with custom mechanics (Unity, C#)
+- **Backdoor Attacks** - working with Prof. Emre Gursoy on backdoor attacks on AI
 
 ## Tech I use
 - **Languages:** C, C++, C#, Python, Java
