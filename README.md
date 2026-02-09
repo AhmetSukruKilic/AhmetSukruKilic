@@ -7,11 +7,6 @@ Interested in **game development**, **systems**, and **data structures**. I enjo
 - 🏃 **HitAndRun** — an endless runner with custom mechanics (Unity, C#)
 - **Backdoor Attacks** - working with Prof. Emre Gursoy on backdoor attacks on AI
 
-## Tech I use
-- **Languages:** C, C++, C#, Python, Java
-- **Focus:** Data Structures & Algorithms, gameplay systems, tooling
-- **Engines/Tools:** Unity, Git/GitHub
-
 ## Experience
 - **Roof Games — Game Developer Intern**
   - Built gameplay prototypes and iterated on mechanics for two titles: *Tetrapoly* and *HitAndRun*.
