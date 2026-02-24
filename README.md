@@ -1,6 +1,6 @@
 # Hi, I'm Ahmet Şükrü Kılıç 👋
 
-**Sophomore Computer Engineering student @ Koç University**  
+**Junior Computer Engineering student @ Koç University**  
 Interested in **game development**, **systems**, and **data structures**. I enjoy building small but complete projects and polishing them until they feel right.
 
 ## What I'm working on
