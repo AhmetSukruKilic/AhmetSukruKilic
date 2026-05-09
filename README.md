@@ -9,12 +9,11 @@ Istanbul, Turkey
 
 ## What I'm doing now
 
-- **Software Engineer Intern @ [Lookfor](https://lookfor.ai)** — Building multi-agent AI customer-service systems with TypeScript, LangGraph, and OpenAI SDK. Architecting triage, order-lifecycle, and escalation agents serving production e-commerce traffic.
 - **Founder @ FlowAI** — Developing an AI-powered anti-scroll content aggregation platform that unifies YouTube, Vimeo, and Reddit into a ranked single feed with time-budget packing and personalized scoring.
 - **Research Assistant @ Koc University** — Working with Prof. Emre Gursoy on textual backdoor attacks and defenses in NLP models (RoBERTa, BERT) with Opacus and PyTorch. Identified trigger learnability as a core mechanism — sentence-level triggers survive DP noise while token-level triggers do not.
 
 ## Past experience
-
+- **Software Engineer Intern @ [Lookfor](https://lookfor.ai)** — Building multi-agent AI customer-service systems with TypeScript, LangGraph, and OpenAI SDK. Architecting triage, order-lifecycle, and escalation agents serving production e-commerce traffic.
 - **Game Developer Intern — RoofStacks** — Built two Unity/C# games using Observer, Singleton, Factory, and Object Pool patterns.
 - **Teaching Assistant, COMP 132 — Koc University** — Supported 100+ students in labs, office hours, and exam prep.
 
